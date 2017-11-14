@@ -15,8 +15,6 @@ class LoginForm extends Component {
             </Card>
         );
     }
-
-
 }
 
 export default LoginForm;
